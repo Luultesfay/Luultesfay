@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luul Negasi
-- 👀 I’m interested in working with minded programmers 
+- 👀 I’m interested to work with well minded programmers 
 - 🌱 I’m currently learning the frontEnd development (html5,css3,javaScript,react.js)
 - 💞️ I’m looking to collaborate on projects,
 - 📫 you can reache me through my Email. luultesfay24@gmail.com
